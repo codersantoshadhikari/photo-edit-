@@ -1,4 +1,3 @@
-# coderjava_image_editor_pro
 
 A new flutter plugin project.
 
